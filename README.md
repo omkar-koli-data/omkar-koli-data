@@ -1,65 +1,138 @@
- <h1 align="center">Hi 👋, I'm Omkar Koli</h1>
+# 👋 Hi, I'm Omkar Koli
 
-<p align="center">
-🎓 BCA Graduate | 📊 Data Analyst | 📈 Data Science Learner  
-</p>
+### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Data Science Learner
 
-<p align="center">
-📍 Pune, Maharashtra, India  
-</p>
+📍 Pune, Maharashtra, India
 
----
+I am a BCA graduate and an aspiring Data Analyst / Data Scientist with a strong interest in data analysis, business insights, and machine learning.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=excel" height="60" alt="excel" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github" />
-</div>
+I enjoy working with data to clean, analyze, visualize, and transform it into meaningful insights that can support better business decisions.
+
+Currently, I am strengthening my skills in Python, SQL, Power BI, Statistics, and Machine Learning while building practical portfolio projects.
 
 ---
 
-## 👨‍💻 About Me
-I am an aspiring **Data Analyst** with hands-on experience in **Excel and SQL** through real-world projects.  
-Currently learning **Data Science**, focusing on data analysis, statistics, and reporting.
+## 🛠️ Skills & Technologies
 
-I am actively seeking **Data Analyst / Data Science Internship opportunities** to gain industry exposure and grow professionally.
+### 💻 Programming & Data Analysis
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🗄️ Database & SQL
+- SQL
+- PostgreSQL
+- DBMS
+- Data Cleaning
+- Data Analysis
+
+### 📊 Data Visualization & BI
+- Microsoft Power BI
+- Microsoft Excel
+- Data Visualization
+- Dashboard Development
+
+### 🤖 Machine Learning
+- Machine Learning Fundamentals
+- Data Preprocessing
+- Feature Engineering
+- Model Building
+- Model Evaluation
 
 ---
 
-## 🛠️ Skills
-- **Excel:** Data Cleaning, Pivot Tables, Charts  
-- **SQL (MySQL):** Joins, Group By, Aggregations, Subqueries  
-- **Statistics:** Mean, Median, Standard Deviation, Outlier Detection  
-- **Python:** Basics (Learning)
+## 🚀 Featured Projects
+
+### 🍕 Pizza Sales Analysis — Power BI
+Interactive Power BI dashboard analyzing pizza sales performance, customer ordering patterns, pizza categories, sizes, and best/worst-selling pizzas.
+
+**Tools:** Power BI | Excel | Data Visualization
+
+🔗 [View Project](https://github.com/omkar-koli-data/Pizza-Sales-Analysis-PowerBI)
 
 ---
 
-## 📂 Projects
-- **Sales Data Analysis – Excel**  
-  Identified sales trends, top products, and regional performance using pivot tables and charts.
+### 🛒 Zepto E-commerce SQL Analysis
+End-to-end e-commerce data analysis using SQL and PostgreSQL.
 
-- **Sales Data Analysis – SQL**  
-  Performed sales insights using SQL queries and aggregations.
+The project focuses on product pricing, discounts, inventory, stock availability, and estimated revenue to generate meaningful business insights.
 
-- **HR Payroll Management System – SQL**  
-  Designed relational database and generated HR analytics reports.
+**Tools:** SQL | PostgreSQL | pgAdmin
+
+🔗 [View Project](https://github.com/omkar-koli-data/Zepto-SQL-Analysis)
+
+---
+
+### 🐍 Python Data Analysis
+A practical data analysis project using Python to perform data cleaning, exploratory data analysis, statistical analysis, and visualization.
+
+**Tools:** Python | Pandas | NumPy | Matplotlib
+
+🔗 Coming Soon
+
+---
+
+### 🤖 Machine Learning Project
+An end-to-end machine learning project covering data preprocessing, exploratory analysis, feature engineering, model training, evaluation, and prediction.
+
+**Tools:** Python | Pandas | NumPy | Scikit-learn | Matplotlib
+
+🔗 Coming Soon
+
+---
+
+### 🚀 Advanced Data Science / ML Project
+A stronger end-to-end Data Science project combining data analysis, machine learning, model evaluation, and business-oriented insights.
+
+**Tools:** Python | Pandas | NumPy | Scikit-learn | Visualization
+
+🔗 Coming Soon
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python for Data Analysis
+- Pandas & NumPy
+- Statistics for Data Science
+- Machine Learning
+- Exploratory Data Analysis
+- Feature Engineering
+- Advanced SQL
+- Data Visualization
+- Business Analytics
 
 ---
 
 ## 🎯 Career Goal
-To start my career as a **Data Analyst / Data Science Intern** and build strong data-driven solutions.
+
+My goal is to start my career as a **Data Analyst** and gradually grow into a **Data Scientist** by developing strong analytical, technical, and problem-solving skills.
+
+I am actively looking for opportunities where I can apply my skills to real-world data and continue learning from industry experience.
 
 ---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/omkar-koli-314751384">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/omkar-koli-data">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=000000&logoColor=white&style=for-the-badge" />
-  </a>
-</div>
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/omkar-koli-314751384/)
+
+💻 **GitHub:** [@omkar-koli-data](https://github.com/omkar-koli-data)
+
+📍 **Location:** Pune, Maharashtra, India
+
+---
+
+## ⭐ Featured Work
+
+I believe in learning by building.
+
+This profile contains projects demonstrating my practical experience with:
+
+**SQL → Python → Data Analysis → Power BI → Machine Learning → Data Science**
+
+---
+
+### Thanks for visiting my profile! 👋
+
+⭐ Feel free to explore my repositories and projects.
