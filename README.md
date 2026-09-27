@@ -73,12 +73,13 @@ A practical data analysis project using Python to perform data cleaning, explora
 
 ---
 
-### 🤖 Machine Learning Project
-An end-to-end machine learning project covering data preprocessing, exploratory analysis, feature engineering, model training, evaluation, and prediction.
+### 🤖 Customer Churn Prediction — Machine Learning
 
-**Tools:** Python | Pandas | NumPy | Scikit-learn | Matplotlib
+An end-to-end machine learning project to predict customer churn using banking customer data. The project covers data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, feature importance, and churn prediction.
 
-🔗 Coming Soon
+**Tools:** Python | Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn
+
+🔗 [View Project on GitHub](https://github.com/omkar-koli-data/Customer-Churn-Prediction-ML)
 
 ---
 
