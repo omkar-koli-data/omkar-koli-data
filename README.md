@@ -64,12 +64,13 @@ The project focuses on product pricing, discounts, inventory, stock availability
 
 ---
 
-### 🐍 Python Data Analysis
-A practical data analysis project using Python to perform data cleaning, exploratory data analysis, statistical analysis, and visualization.
+### 🐍 Customer Data Analysis & Segmentation — Python
 
-**Tools:** Python | Pandas | NumPy | Matplotlib
+A practical customer data analysis project using Python to perform data cleaning, exploratory data analysis, customer segmentation, and data visualization.
 
-🔗 Coming Soon
+**Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn
+
+🔗 [View Project on GitHub](https://github.com/omkar-koli-data/Customer-Data-Analysis)
 
 ---
 
