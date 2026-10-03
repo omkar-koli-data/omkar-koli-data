@@ -1,62 +1,95 @@
 # 👋 Hi, I'm Omkar Koli
 
-### 📊 Data Analyst | 🤖 Aspiring Data Scientist | 📈 Data Science Learner
+### 📊 Data Analyst Fresher | Data Science Learner | BCA Graduate
 
 📍 Pune, Maharashtra, India
 
-I am a BCA graduate and an aspiring Data Analyst / Data Scientist with a strong interest in data analysis, business insights, and machine learning.
+I am a BCA graduate and Data Analyst fresher with hands-on experience in SQL, Excel, Python, Power BI, and data visualization.
 
-I enjoy working with data to clean, analyze, visualize, and transform it into meaningful insights that can support better business decisions.
+I enjoy cleaning, analyzing, and visualizing data to generate meaningful business insights. I have built practical projects using SQL, Excel, Power BI, Python, and Machine Learning.
 
-Currently, I am strengthening my skills in Python, SQL, Power BI, Statistics, and Machine Learning while building practical portfolio projects.
+I am currently looking for entry-level Data Analyst opportunities where I can apply my analytical skills and continue growing in Data Science.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills
 
-### 💻 Programming & Data Analysis
+**Programming & Data Analysis**
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- Seaborn
 
-### 🗄️ Database & SQL
+**SQL & Databases**
 - SQL
 - PostgreSQL
-- DBMS
+- Joins
+- Group By
+- Subqueries
 - Data Cleaning
-- Data Analysis
 
-### 📊 Data Visualization & BI
-- Microsoft Power BI
+**Business Intelligence**
 - Microsoft Excel
+- Power BI
+- DAX
 - Data Visualization
 - Dashboard Development
 
-### 🤖 Machine Learning
-- Machine Learning Fundamentals
-- Data Preprocessing
+**Machine Learning**
+- Scikit-learn
+- Regression
+- Classification
+- XGBoost
 - Feature Engineering
-- Model Building
 - Model Evaluation
+- Cross-Validation
+- Hyperparameter Tuning
+
+**Tools**
+- Git
+- GitHub
+- Jupyter Notebook
+- Streamlit
+- VS Code
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+### 🏠 Bangalore House Price Prediction — Machine Learning
+
+End-to-end Machine Learning project to predict Bangalore house prices based on property details.
+
+**Tools:** Python | Pandas | NumPy | Scikit-learn | Streamlit
+
+🔗 [View Project](https://github.com/omkar-koli-data/Bangalore-House-Price-Prediction-ML)
+
+---
+
+### 🤖 Customer Churn Prediction — Machine Learning
+
+Machine Learning project to predict customer churn using banking customer data.
+
+**Tools:** Python | Pandas | Scikit-learn | XGBoost | Seaborn | Matplotlib
+
+🔗 [View Project](https://github.com/omkar-koli-data/Customer-Churn-Prediction-ML)
+
+---
 
 ### 🍕 Pizza Sales Analysis — Power BI
-Interactive Power BI dashboard analyzing pizza sales performance, customer ordering patterns, pizza categories, sizes, and best/worst-selling pizzas.
 
-**Tools:** Power BI | Excel | Data Visualization
+Interactive Power BI dashboard analyzing sales performance, orders, pizza categories, sizes, and best/worst-selling products.
+
+**Tools:** Power BI | DAX | Excel
 
 🔗 [View Project](https://github.com/omkar-koli-data/Pizza-Sales-Analysis-PowerBI)
 
 ---
 
 ### 🛒 Zepto E-commerce SQL Analysis
-End-to-end e-commerce data analysis using SQL and PostgreSQL.
 
-The project focuses on product pricing, discounts, inventory, stock availability, and estimated revenue to generate meaningful business insights.
+SQL-based e-commerce analysis covering product pricing, discounts, inventory, stock availability, and business insights.
 
 **Tools:** SQL | PostgreSQL | pgAdmin
 
@@ -64,77 +97,58 @@ The project focuses on product pricing, discounts, inventory, stock availability
 
 ---
 
-### 🐍 Customer Data Analysis & Segmentation — Python
+### 🐍 Customer Data Analysis & Segmentation
 
-A practical customer data analysis project using Python to perform data cleaning, exploratory data analysis, customer segmentation, and data visualization.
+Python-based customer data analysis covering demographics, age, gender, location, interests, and customer segmentation.
 
 **Tools:** Python | Pandas | NumPy | Matplotlib | Seaborn
 
-🔗 [View Project on GitHub](https://github.com/omkar-koli-data/Customer-Data-Analysis)
+🔗 [View Project](https://github.com/omkar-koli-data/Customer-Data-Analysis)
 
 ---
 
-### 🤖 Customer Churn Prediction — Machine Learning
+### 📈 Sales Data Analysis — SQL
 
-An end-to-end machine learning project to predict customer churn using banking customer data. The project covers data preprocessing, exploratory data analysis, feature engineering, model training, evaluation, feature importance, and churn prediction.
+SQL project focused on analyzing sales data and extracting business insights using SQL queries.
 
-**Tools:** Python | Pandas | NumPy | Scikit-learn | XGBoost | Matplotlib | Seaborn
+**Tools:** SQL | PostgreSQL
 
-🔗 [View Project on GitHub](https://github.com/omkar-koli-data/Customer-Churn-Prediction-ML)
-
----
-
-### 🚀 Advanced Data Science / ML Project
-A stronger end-to-end Data Science project combining data analysis, machine learning, model evaluation, and business-oriented insights.
-
-**Tools:** Python | Pandas | NumPy | Scikit-learn | Visualization
-
-🔗 Coming Soon
+🔗 [View Project](https://github.com/omkar-koli-data/sales-data-analysis-sql)
 
 ---
 
-## 📚 Currently Learning
+### 📊 Sales Data Analysis — Excel
 
-- Advanced Python for Data Analysis
-- Pandas & NumPy
-- Statistics for Data Science
-- Machine Learning
-- Exploratory Data Analysis
-- Feature Engineering
-- Advanced SQL
-- Data Visualization
-- Business Analytics
+Excel-based data analysis project involving data cleaning, claims analysis, customer analysis, dealer analysis, and business insights.
+
+**Tools:** Microsoft Excel | Data Cleaning | Data Analysis
+
+🔗 [View Project](https://github.com/omkar-koli-data/sales-data-analysis-excel)
 
 ---
 
-## 🎯 Career Goal
+# 🎯 Career Goal
 
-My goal is to start my career as a **Data Analyst** and gradually grow into a **Data Scientist** by developing strong analytical, technical, and problem-solving skills.
+My immediate goal is to start my career as a Data Analyst.
 
-I am actively looking for opportunities where I can apply my skills to real-world data and continue learning from industry experience.
+I am looking for entry-level opportunities where I can work with real-world data, apply my analytical skills, and solve practical business problems.
+
+In the long term, I aim to grow into Data Science and Machine Learning.
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
+
+📧 **Email:** omkarkoli904@gmail.com
 
 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/omkar-koli-314751384/)
 
-💻 **GitHub:** [@omkar-koli-data](https://github.com/omkar-koli-data)
+🐙 **GitHub:** [@omkar-koli-data](https://github.com/omkar-koli-data)
 
-📍 **Location:** Pune, Maharashtra, India
-
----
-
-## ⭐ Featured Work
-
-I believe in learning by building.
-
-This profile contains projects demonstrating my practical experience with:
-
-**SQL → Python → Data Analysis → Power BI → Machine Learning → Data Science**
+📍 **Pune, Maharashtra, India**
 
 ---
 
-### Thanks for visiting my profile! 👋
+⭐ **Thanks for visiting my profile!**
 
-⭐ Feel free to explore my repositories and projects.
+**I believe in learning by building. 🚀**
